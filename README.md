@@ -1,5 +1,5 @@
 # clear
-Clear your screen in XXX bytes
+Clear your screen in 472 bytes
 
 ## Building
 ### Prerequisites
