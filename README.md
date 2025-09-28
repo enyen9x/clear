@@ -1,5 +1,5 @@
 # clear
-Clear your screen in 472 bytes
+World's smallest clear program
 
 ## Building
 ### Prerequisites
